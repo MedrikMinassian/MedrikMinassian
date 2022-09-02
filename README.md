@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MedrikMinassian
-- 👀 I’m interested in solving problems and making things work.
+- 👀 I’m interested in solving problems and developing applications which are practical.
 - 🌱 I’m currently learning Python, Java, JS, MERN
 - 💞️ I’m looking to collaborate on software development with applicable solutions to businesses and real life usage.
 - 📫 How to reach me: medrik.minassian@gmail.com
